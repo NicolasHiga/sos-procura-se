@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "PROJECT_NUMBER",
+    "project_id": "sos-procura-se-ID",
+    "storage_bucket": "sos-procura-se-ID.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:YOUR_NUMBER_ID:android:YOUR_ID",
+        "android_client_info": {
+          "package_name": "br.com.nicolashiga.sos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "YOUR_CLIENT_OAUTH_ID.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "YOUR_CLIENT_OAUTH_ID.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
